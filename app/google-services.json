@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961468778246",
+    "project_id": "ouizonline",
+    "storage_bucket": "ouizonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961468778246:android:c9374de4524cf03242c087",
+        "android_client_info": {
+          "package_name": "com.example.ouizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5fHz1774wxABhQ5GN34qDzzQxZ5-2zL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
